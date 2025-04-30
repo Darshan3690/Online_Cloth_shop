@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "Men_Tshirt_1",
+    "price": 799,
+    "count": 10,
+    "url": "/image/f1.jpg",
+    "description": "Men's Cotton Regular Fit T-Shirt - Soft, breathable fabric with round neck and half sleeves. Machine washable."
+  },
+  {
+    "id": 2,
+    "title": "Women_Kurti_1",
+    "price": 1499,
+    "count": 8,
+    "url": "/image/f2.jpg",
+    "description": "Elegant Women's Rayon Kurti with embroidered front panel and three-quarter sleeves. Ideal for festive wear."
+  },
+  {
+    "id": 3,
+    "title": "Jeans_Men_1",
+    "price": 1999,
+    "count": 12,
+    "url": "/image/f3.jpg",
+    "description": "Men's Slim Fit Stretchable Denim Jeans with a five-pocket design and button closure. Dark wash finish."
+  },
+  {
+    "id": 4,
+    "title": "Saree_Women_1",
+    "price": 2599,
+    "count": 5,
+    "url": "/image/f5.jpg",
+    "description": "Designer Silk Saree with golden zari work and matching blouse piece. Perfect for weddings and celebrations."
+  },
+  {
+    "id": 5,
+    "title": "Kids_WinterJacket_1",
+    "price": 1799,
+    "count": 7,
+    "url": "/image/f4.jpg",
+    "description": "Warm and lightweight winter jacket for kids. Hooded with zip closure and water-resistant outer layer."
+  },
+  {
+    "id": 6,
+    "title": "Men_Hoodie_1",
+    "price": 1399,
+    "count": 6,
+    "url": "/image/f6.jpg",
+    "description": "Men's Fleece Hoodie with kangaroo pocket and adjustable drawstring hood. Ideal for casual winter wear."
+  },
+  {
+    "id": 7,
+    "title": "Women_Leggings_1",
+    "price": 499,
+    "count": 15,
+    "url": "/image/f7.jpg",
+    "description": "Women's Stretchable Cotton Leggings, ankle-length, soft waistband. Suitable for daily wear or yoga."
+  },
+  {
+    "id": 8,
+    "title": "Men_FormalShirt_1",
+    "price": 1199,
+    "count": 9,
+    "url": "/image/f8.jpg",
+    "description": "Men's Slim Fit Formal Shirt with button-down collar and long sleeves. Ideal for office and formal occasions."
+  },
+  {
+    "id": 9,
+    "title": "Women_Jeans_1",
+    "price": 1899,
+    "count": 11,
+    "url": "/image/n1.jpg",
+    "description": "High-rise skinny jeans for women, stretchable denim with front button closure. Classic black color."
+  },
+  {
+    "id": 10,
+    "title": "Kids_Tshirt_1",
+    "price": 499,
+    "count": 14,
+    "url": "/image/n2.jpg",
+    "description": "Kids' cartoon print cotton t-shirt, breathable and soft fabric, short sleeves. Available in multiple colors."
+  },
+  {
+    "id": 11,
+    "title": "Men_Jacket_1",
+    "price": 2499,
+    "count": 5,
+    "url": "/image/n3.jpg",
+    "description": "Men’s Bomber Jacket with zipper closure and ribbed cuffs. Water-resistant and ideal for cold weather."
+  },
+  {
+    "id": 12,
+    "title": "Women_Top_1",
+    "price": 999,
+    "count": 10,
+    "url": "/image/n4.jpg",
+    "description": "Trendy chiffon floral top for women with flared sleeves. Lightweight and ideal for casual outings."
+  }
+]
