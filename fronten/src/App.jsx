@@ -7,7 +7,7 @@ import Signup from './compents/Signup';
 import Home from './compents/Home';
 import Header from './compents/Header';
 import Mycard from './compents/Mycard';
-import Footer from './compents/Footer';
+import Footer from './compents/footer';
 import RefrshHandler from './RefrshHandler';
 import About from './compents/About';
 import Contact from './compents/Contect';
