@@ -2,15 +2,15 @@
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom';
 import './App.css';
 import { useState, useEffect } from 'react';
-import Login from './compents/Login';
-import Signup from './compents/Signup';
-import Home from './compents/Home';
-import Header from './compents/Header';
-import Mycard from './compents/Mycard';
-import Footer from './compents/footer';
+import Login from './components/Login';
+import Signup from './components/Signup';
+import Home from './components/Home';
+import Header from './components/Header';
+import Mycard from './components/Mycard';
+import Footer from './components/Footer';
 import RefrshHandler from './RefrshHandler';
-import About from './compents/About';
-import Contact from './compents/Contect';
+import About from './components/About';
+import Contact from './components/Contect';
 
 function App() {
   // Authentication state
